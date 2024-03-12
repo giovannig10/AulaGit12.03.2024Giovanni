@@ -1,5 +1,6 @@
 //criar variavel a
 let a = 100;
+//criar variavel b
 let b = 200;
 let c = 10
 //calcule a soma
