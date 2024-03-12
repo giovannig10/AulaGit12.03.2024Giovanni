@@ -3,7 +3,7 @@ let a = 100;
 //criar variavel b
 let b = 200;
 //criar variavel c
-let c = 10
+let c = 15
 //calcule a soma
 //apos calcular a soma calcule a subtracao
 let resultado = a + b - c;
