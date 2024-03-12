@@ -7,6 +7,7 @@ let c = 10
 //calcule a soma
 let resultado = a + b - c;
 //exibo o resultado
+//coloco console resultado para aparecer o resultado de uma das variaveis
 console.log(resultado);
 console.log ("mudei");
 //teste comentario
