@@ -5,3 +5,4 @@ let resultado = a + b;
 //exibo o resultado
 console.log(resultado);
 console.log ("mudei");
+//teste comentario
