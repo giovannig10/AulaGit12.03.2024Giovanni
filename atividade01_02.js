@@ -11,4 +11,3 @@ let resultado = a + b - c;
 //coloco console resultado para aparecer o resultado de uma das variaveis
 console.log(resultado);
 console.log ("mudei");
-//teste comentario
