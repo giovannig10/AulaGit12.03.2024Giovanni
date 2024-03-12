@@ -2,6 +2,7 @@
 let a = 100;
 //criar variavel b
 let b = 200;
+//criar variavel c
 let c = 10
 //calcule a soma
 let resultado = a + b - c;
